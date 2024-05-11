@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/basic-common/basic-common-bom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-common/basic-common-bom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-common/basic-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-common/basic-common-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/basic-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-cli/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-cli/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/order-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/order-service-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/order-service-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/order-service-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/order-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/portal-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/portal-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/portal-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/portal-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-service/product-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-service/product-service-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-service/product-service-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-service/product-service-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/product-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock-service/stock-service-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock-service/stock-service-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock-service/stock-service-biz/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/stock-service/stock-service-biz/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

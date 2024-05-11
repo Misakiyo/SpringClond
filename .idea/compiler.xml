@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="order-service-api" />
+        <module name="stock-service-api" />
+        <module name="product-service-api" />
+        <module name="test" />
+        <module name="stock-service-biz" />
+        <module name="eureka-service" />
+        <module name="product-client" />
+        <module name="portal-service" />
+        <module name="gateway-service" />
+        <module name="order-cli" />
+        <module name="basic-common-core" />
+        <module name="product-service-biz" />
+        <module name="portal-client" />
+        <module name="order-service-biz" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="order-client" target="1.8" />
+      <module name="test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
